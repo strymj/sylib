@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sylib/io.h
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+
+../include/sylib/math.h
+cmath
+-
+
+../include/sylib/wave.h
+iostream
+-
+fstream
+-
+vector
+-
+
+/home/strymj/Documents/sylib/src/io.cpp
+sylib/io.h
+-
+
+/home/strymj/Documents/sylib/src/math.cpp
+sylib/math.h
+-
+
+/home/strymj/Documents/sylib/src/wave.cpp
+sylib/wave.h
+-
+typeinfo
+-
+string
+-
+

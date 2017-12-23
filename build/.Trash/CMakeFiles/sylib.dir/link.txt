@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsylib.a  CMakeFiles/sylib.dir/src/math.cpp.o CMakeFiles/sylib.dir/src/io.cpp.o CMakeFiles/sylib.dir/src/wave.cpp.o
+/usr/bin/ranlib libsylib.a

@@ -1,0 +1,4 @@
+/usr/local/lib/libsylib.a
+/usr/local/include/sylib/io.h
+/usr/local/include/sylib/math.h
+/usr/local/include/sylib/wave.h

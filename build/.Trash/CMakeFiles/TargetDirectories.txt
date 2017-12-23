@@ -1,0 +1,7 @@
+/home/strymj/Documents/sylib/build/CMakeFiles/install/strip.dir
+/home/strymj/Documents/sylib/build/CMakeFiles/rebuild_cache.dir
+/home/strymj/Documents/sylib/build/CMakeFiles/sylib.dir
+/home/strymj/Documents/sylib/build/CMakeFiles/install.dir
+/home/strymj/Documents/sylib/build/CMakeFiles/install/local.dir
+/home/strymj/Documents/sylib/build/CMakeFiles/list_install_components.dir
+/home/strymj/Documents/sylib/build/CMakeFiles/edit_cache.dir
